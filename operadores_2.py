@@ -15,4 +15,4 @@ print(True and False)
 print(True or True)
 print(True or False)
 # not
-print(not True)
+print(not True) 
